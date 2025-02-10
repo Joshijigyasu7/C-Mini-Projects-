@@ -1,2 +1,2 @@
-# C-Mini-Projects-
+# C/C++-Mini-Projects-
 
